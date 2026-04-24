@@ -77,5 +77,15 @@ All social links hub:
 
 [Social Media Hub](https://emmanuelministrieshyderabad.github.io/SocialMediaAccounts/)
 
+## 🤖 7. Face Detection Attendance (ESSL)
+Face recognition attendance system:
+- Automatic attendance tracking
+- Real-time face matching
+- ESSL India hardware integration
+
+*Internal - authorized staff only*
+
+[Learn More](./FaceDetection)
+
 ---
 *Building digital solutions for the church family!*

@@ -6,17 +6,23 @@
       <description>Last 10 notes on Vijay&#039;s Portfolio</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Face Detection System</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/Church-Digital-Services/FaceDetection</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/Church-Digital-Services/FaceDetection</guid>
+    <description><![CDATA[ Face Detection Attendance System Integrated face detection system for Emmanuel Ministries Hyderabad - built in collaboration with ESSL India (a leading security solutions company). ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:45:21 GMT</pubDate>
+  </item><item>
     <title>Church Digital Services</title>
     <link>https://quartz.jzhao.xyz/Memory/Public/Applications/Church-Digital-Services/</link>
     <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/Church-Digital-Services/</guid>
     <description><![CDATA[ Church Digital Services I’m Vijay, a full-stack developer who built these digital solutions for Emmanuel Ministries Hyderabad. 📱 1. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:42:39 GMT</pubDate>
+    <pubDate>Fri, 24 Apr 2026 12:43:10 GMT</pubDate>
   </item><item>
     <title>Applications</title>
     <link>https://quartz.jzhao.xyz/Memory/Public/Applications/</link>
     <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/</guid>
     <description><![CDATA[ Applications Projects built by Vijay. 🏛 Church Digital Services All digital solutions built for Emmanuel Ministries Hyderabad church. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:38:04 GMT</pubDate>
+    <pubDate>Fri, 24 Apr 2026 12:43:10 GMT</pubDate>
   </item><item>
     <title>Future Ideas</title>
     <link>https://quartz.jzhao.xyz/Memory/Public/Future-Ideas/</link>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Memory/Public/Applications/UserManagement</link>
     <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/UserManagement</guid>
     <description><![CDATA[ User Management System Internal Next.js admin panel for managing Emmanuel Ministries Hyderabad church members and operations. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
-  </item><item>
-    <title>Emmanuel Ministries Website</title>
-    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/Website</link>
-    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/Website</guid>
-    <description><![CDATA[ Emmanuel Ministries Website A comprehensive Next.js website developed for Emmanuel Ministries Hyderabad. ]]></description>
     <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
   </item>
     </channel>
