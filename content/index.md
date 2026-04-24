@@ -2,20 +2,24 @@
 title: Home
 ---
 
-# Emmanuel Ministries Hyderabad - Knowledge Base
+# Vijay's Portfolio
 
-## 📁 Memory Structure
+I'm Vijay - Full Stack Developer. This is my portfolio showcasing digital projects.
 
-### 🔒 Private Memory
-*Technical docs for development*
+## 📂 My Work
 
-- [[Private/Applications/]] - All app documentation
+### [Applications](./Applications/)
+- Church Digital Services (Emmanuel Ministries)
+- Faith Florence (Commercial project)
 
-### 🔓 Public Memory
-*For church members and public*
+### [Concepts](./Concepts/)  
+Technical concepts learned
 
-- [[Public/Applications/Mobile App]]
-- [[Public/]]
+### [Future Ideas](./Future%20Ideas/)
+Planned features and projects
+
+### [Learnings](./Learnings/)
+Tutorials and how-to guides
 
 ---
 

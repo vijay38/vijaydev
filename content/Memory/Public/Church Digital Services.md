@@ -5,14 +5,14 @@ tags:
   - overview
 ---
 
-# Emmanuel Ministries Hyderabad - Digital Services
+# Church Digital Services
 
-I'm Vijay, a full-stack developer who's built all these digital solutions for Emmanuel Ministries Hyderabad church.
+I'm Vijay, a full-stack developer who built these digital solutions for Emmanuel Ministries Hyderabad.
 
 ## 📱 1. Mobile App (Coming Soon)
-A React Native mobile app for church members:
+React Native mobile app for members:
 - WhatsApp OTP login
-- Attendance tracking
+- Attendance tracking  
 - Sermon videos
 - Parking requests
 - Push notifications
@@ -32,55 +32,54 @@ Complete Next.js website with:
 - 📸 Photo galleries
 - 🙏 Prayer requests
 - 🔐 Admin panel for staff
+- 🙏 **Upcoming**: Online Offerings/Payments
 
 [Learn More](./Website)
 
 ## 👥 3. User Management (Internal)
-Staff admin panel for:
-- Member database management
+Staff admin panel - members & attendance:
+- Member database
 - Weekly attendance reports
 - Member profiles
-- Family management
 
-*Internal use only - authorized staff*
+*Internal - authorized staff only*
 
 [Learn More](./User-Management)
 
 ## 🚗 4. Parking Tracker (Internal)
-Internal parking management with WhatsApp integration:
+Parking management with WhatsApp integration:
 - Driver management
 - Vehicle tracking
-- WhatsApp requests (message Hi to +91 9440137776)
+- Message Hi to +91 9440137776
 
-*Internal use only - parking team*
+*Internal - parking team only*
 
 [Learn More](./Parking-Tracker)
 
 ## 💬 5. WhatsApp Service
-**WhatsApp**: Message **Hi** to **+91 9440137776**
-
-Get instant:
+Message **Hi** to **+91 9440137776**:
 - 🕐 Service timings
-- 📍 Locations
+- 📍 Locations  
 - 🚗 Parking requests
 - 🙏 Prayer requests
-- 📞 Contact info
+- 📞 Contact
 
 [Learn More](./WhatsApp-Service)
 
-## 📱 6. Social Media Hub
-**URL**: [emmanuelministrieshyderabad.github.io/SocialMediaAccounts](https://emmanuelministrieshyderabad.github.io/SocialMediaAccounts)
-
-All social links in one place:
+## 📱 6. Social Media
+All social links hub:
 - 📺 YouTube (6 channels)
 - 💬 WhatsApp
 - 📷 Instagram
 - 📘 Facebook
 
+[Social Media Hub](https://emmanuelministrieshyderabad.github.io/SocialMediaAccounts/)
+
+---
+
 ## 📞 Need Help?
 - 📞 Call: +91 9440147146
 - 🙏 Prayer: +91 9505440077
-- 💬 WhatsApp: +91 9440137776
 
 ---
 *Building digital solutions for the church family!*

@@ -1,22 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
+      <title>Vijay&#039;s Portfolio</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Last 10 notes on Vijay&#039;s Portfolio</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Meta WhatsApp Business Setup</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Learnings/WhatsAppSetup</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Learnings/WhatsAppSetup</guid>
+    <description><![CDATA[ Meta WhatsApp Business API Setup Learn how to set up WhatsApp messaging for church services. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:37:19 GMT</pubDate>
+  </item><item>
+    <title>Church Digital Services</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Church-Digital-Services</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Church-Digital-Services</guid>
+    <description><![CDATA[ Church Digital Services I’m Vijay, a full-stack developer who built these digital solutions for Emmanuel Ministries Hyderabad. 📱 1. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:36:34 GMT</pubDate>
+  </item><item>
+    <title>Emmanuel Ministries Mobile App</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/EmmanuelMobileApp</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/EmmanuelMobileApp</guid>
+    <description><![CDATA[ Emmanuel Ministries Mobile App A React Native mobile application developed for Emmanuel Ministries Hyderabad church members. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
+    <title>Faith Florence - Landing Page</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/FaithFlorence</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/FaithFlorence</guid>
+    <description><![CDATA[ Faith Florence - Healthcare Branding Landing Page 🌐 Live Website URL: faithflorencebrandanddigitalmarketing.github.io/Faith-Florence/ 🎯 What Is This? A professional landing page for Faith Florence - a healthcare-focused branding and digital marketing company. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
+    <title>Emmanuel Parking Tracker</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/ParkingTracker</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/ParkingTracker</guid>
+    <description><![CDATA[ Emmanuel Ministries - Parking Tracker An internal Next.js application for managing church parking services and driver operations. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
+    <title>User Management System</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/UserManagement</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/UserManagement</guid>
+    <description><![CDATA[ User Management System Internal Next.js admin panel for managing Emmanuel Ministries Hyderabad church members and operations. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
+    <title>Emmanuel Ministries Website</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/Website</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/Website</guid>
+    <description><![CDATA[ Emmanuel Ministries Website A comprehensive Next.js website developed for Emmanuel Ministries Hyderabad. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
+    <title>Meta WhatsApp Service</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/WhatsAppService</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/WhatsAppService</guid>
+    <description><![CDATA[ Meta WhatsApp Service WhatsApp-powered service for Emmanuel Ministries Hyderabad - members can get information and submit requests via WhatsApp! 📱 WhatsApp Number Message Hi to: +91 9440137776 ✨ What You Can Do 1️⃣ Get Service Timings Send “1” or “timings” Get weekly worship service times 2️⃣ Churc... ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
+    <title>Applications</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/</guid>
+    <description><![CDATA[ Applications Projects built by Vijay. 🏛 Church Digital Services All digital solutions built for Emmanuel Ministries Hyderabad church. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
+  </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ My Digital Garden Welcome to my knowledge base. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 11:20:28 GMT</pubDate>
-  </item><item>
-    <title>README</title>
-    <link>https://quartz.jzhao.xyz/README</link>
-    <guid>https://quartz.jzhao.xyz/README</guid>
-    <description><![CDATA[ Welcome to Quartz This is your digital garden built with Quartz. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 11:10:57 GMT</pubDate>
+    <description><![CDATA[ Vijay’s Portfolio I’m Vijay - Full Stack Developer. This is my portfolio showcasing digital projects. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:10:29 GMT</pubDate>
   </item>
     </channel>
   </rss>

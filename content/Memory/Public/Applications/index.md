@@ -4,39 +4,32 @@ title: Applications
 
 # Applications
 
-Digital solutions built by Vijay for Emmanuel Ministries Hyderabad.
+Projects built by Vijay.
 
-## 🌐 Public Services
+## 🏛 Church Digital Services
 
-### Mobile App
-- Emmanuel Ministries Mobile App
-- React Native application
-- *In Development*
-[Mobile App](./Mobile-App)
+All digital solutions built for Emmanuel Ministries Hyderabad church.
 
-### Website  
-- Church Website - web.emmanuelministrieshyd.com
-- Next.js 15 with admin panel
-[Website](./Website)
+- [Church Digital Services](./Church-Digital-Services.md)
 
-### WhatsApp Service  
-- Message Hi to +91 9440137776
-- Automated service menu
-[WhatsApp Service](./WhatsApp-Service)
-
-### Social Media
-- All social links hub
-[Social Media Accounts](https://emmanuelministrieshyderabad.github.io/SocialMediaAccounts/)
+### Included Services:
+- 📱 Mobile App (coming soon)
+- 🌐 Church Website
+- 👥 User Management  
+- 🚗 Parking Tracker
+- 💬 WhatsApp Service
+- 📱 Social Media
 
 ---
 
-## 🏢 Other Projects
+## 💼 Other Projects
 
 ### Faith Florence
-- Healthcare branding landing page
-- Static HTML project
-- [View Project](https://faithflorencebrandanddigitalmarketing.github.io/Faith-Florence/)
-[Faith Florence](./FaithFlorence)
+Healthcare branding landing page:
+- Static HTML website
+- Professional business
+[View Project](https://faithflorencebrandanddigitalmarketing.github.io/Faith-Florence/)
+- [Faith Florence](./FaithFlorence)
 
 ---
 *Building digital solutions!*
