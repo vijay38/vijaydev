@@ -9,47 +9,25 @@ Welcome to my knowledge base.
 ## 📁 Memory Structure
 
 ### 🔒 Private Memory
-*Notes for AI/agent context (not published to git)*
+*Notes for AI/agent context*
 
-#### 📱 Applications
-- [[Applications/EmmanuelMobileApp]]
-- [[Applications/AttendanceManagement]]
-
-#### 💡 Learnings
-- (Add your learning notes here)
-
-#### 🚀 Future Ideas
-- (Add future project ideas here)
-
-#### 📖 Concepts
-- (Add conceptual notes here)
-
----
+- [[Private/AI Agent Instructions]]
+- [[Private/Emmanuel Mobile App]]
+- [[Private/Attendance Management]]
 
 ### 🔓 Public Memory
-*Notes published to git and GitHub Pages*
+*Published to GitHub Pages*
 
-#### 📱 Applications
-- (Add public app docs)
-
-#### 💡 Learnings
-- (Add public learnings)
-
-#### 🚀 Future Ideas
-- (Add public ideas)
-
-#### 📖 Concepts
-- (Add public concepts)
+- [[Public/Emmanuel Mobile App]]
 
 ---
 
-## Quick Actions
+## Quick Links
 
-1. **Build**: `npx quartz build`
-2. **Preview**: `cd public && npx http-server`
-3. **Deploy**: Push to git for GitHub Pages
+- GitHub: https://github.com/vijay38/vijaydev
+- Live Site: https://vijay38.github.io/vijaydev/
 
-## Status
-- Emmanuel Ministries Mobile App: ✅ Active
-- Attendance Backend: ✅ Active
-- Quartz: ✅ Setup Complete
+## Build
+```bash
+npx quartz build
+```
