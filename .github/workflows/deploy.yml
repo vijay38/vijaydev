@@ -31,7 +31,7 @@ jobs:
 
       - name: Build Quartz
         run: |
-          npx quartz@latest build --bundle
+          npm run quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
