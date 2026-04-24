@@ -5,46 +5,82 @@ tags:
   - overview
 ---
 
-# Emmanuel Ministries - Our Digital Services
+# Emmanuel Ministries Hyderabad - Digital Services
 
-We're committed to making it easy for you to stay connected with God and our church family.
+I'm Vijay, a full-stack developer who's built all these digital solutions for Emmanuel Ministries Hyderabad church.
 
-## 📱 Mobile App
-Your pocket companion for:
+## 📱 1. Mobile App (Coming Soon)
+A React Native mobile app for church members:
+- WhatsApp OTP login
 - Attendance tracking
-- Sermons
-- Parking
-- Giving
-- And more!
-[Mobile App](./Mobile-App)
+- Sermon videos
+- Parking requests
+- Push notifications
+- Family linking
 
-## 📱 Social Media
-Follow us on:
-- **YouTube** - 6 channels with sermons and worship
-- **WhatsApp** - Get instant updates
-- **Instagram** - Daily inspiration
-- **Facebook** - Community updates
+[Learn More](./Mobile-App) | *In Development*
 
-Visit: [Social Media Links](https://vijay38.github.io/SocialMediaAccounts/)
+## 🌐 2. Church Website
+**URL**: [web.emmanuelministrieshyd.com](https://web.emmanuelministrieshyd.com)
 
-## 🌐 Website
-Our main website with:
-- Service times
-- Location details
-- Events calendar
-- Online giving
+Complete Next.js website with:
+- 🕐 Service times & schedules
+- 📍 Church locations
+- 📺 Latest sermon videos
+- 📅 Upcoming events
+- 👥 Church ministries
+- 📸 Photo galleries
+- 🙏 Prayer requests
+- 🔐 Admin panel for staff
 
-Visit: web.emmanuelministrieshyd.com
+[Learn More](./Website)
 
-## 💝 Ways to Give
-- UPI: qr919440147146-0032@unionbankofindia
-- Bank transfer details in the app
-- Offerings during service
+## 👥 3. User Management (Internal)
+Staff admin panel for:
+- Member database management
+- Weekly attendance reports
+- Member profiles
+- Family management
+
+*Internal use only - authorized staff*
+
+[Learn More](./User-Management)
+
+## 🚗 4. Parking Tracker (Internal)
+Internal parking management with WhatsApp integration:
+- Driver management
+- Vehicle tracking
+- WhatsApp requests (message Hi to +91 9440137776)
+
+*Internal use only - parking team*
+
+[Learn More](./Parking-Tracker)
+
+## 💬 5. WhatsApp Service
+**WhatsApp**: Message **Hi** to **+91 9440137776**
+
+Get instant:
+- 🕐 Service timings
+- 📍 Locations
+- 🚗 Parking requests
+- 🙏 Prayer requests
+- 📞 Contact info
+
+[Learn More](./WhatsApp-Service)
+
+## 📱 6. Social Media Hub
+**URL**: [emmanuelministrieshyderabad.github.io/SocialMediaAccounts](https://emmanuelministrieshyderabad.github.io/SocialMediaAccounts)
+
+All social links in one place:
+- 📺 YouTube (6 channels)
+- 💬 WhatsApp
+- 📷 Instagram
+- 📘 Facebook
 
 ## 📞 Need Help?
-- Call: +91 9440147146
-- Prayer: +91 9505440077
-- Visit any volunteer after service
+- 📞 Call: +91 9440147146
+- 🙏 Prayer: +91 9505440077
+- 💬 WhatsApp: +91 9440137776
 
 ---
-*Welcome to Emmanuel Ministries family!*
+*Building digital solutions for the church family!*

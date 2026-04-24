@@ -2,66 +2,70 @@
 title: Emmanuel Ministries Mobile App
 tags:
   - mobile-app
+  - react-native
   - church-app
-  - mobile
 ---
 
 # Emmanuel Ministries Mobile App
 
-Your pocket companion for staying connected with Emmanuel Ministries Hyderabad.
+A React Native mobile application developed for Emmanuel Ministries Hyderabad church members.
 
-## Download
-Get the app from the church office or ask any volunteer for help installing.
+## 🚧 Currently In Development
 
-## Features for Members
+This app is being built to help church members stay connected with all church activities and services.
 
-### 1. 📱 Easy Login
-- Login with your WhatsApp number
-- Simple OTP verification
-- No password needed
+## Features Coming Soon
+
+### 1. 📱 WhatsApp Authentication
+- Login using your WhatsApp number
+- OTP verification via WhatsApp
+- No password required
 
 ### 2. ✅ Attendance Tracking
-- Mark your attendance at each service
-- View your attendance history
-- See family members' attendance too
+- Mark attendance for each service
+- View personal attendance history
+- Track family members' attendance
 
 ### 3. 📺 Sermon Videos
-- Watch recorded sermons on YouTube
-- All your favorite preachers in one place
+- Access YouTube sermon videos
+- Watch anytime, anywhere
+- Multiple preacher channels
 
-### 4. 🚗 Parking Service
-- Request your vehicle before service
-- Get notified when ready
-- Return after service
+### 4. 🚗 Parking Request
+- Request vehicle before service
+- Get notifications when ready
+- Easy return process
 
-### 5. 💝 Giving/Offerings
-- UPI payment details
-- Bank account for transfers
-- Simple giving options
-
-### 6. 📍 Church Locations
+### 5. 📍 Church Locations
 - Find nearest church location
 - Get directions
-- Call for help
+- Contact information
 
-### 7. 🔔 Notifications
+### 6. 🔔 Push Notifications
 - Stay updated with church announcements
-- Never miss important news
+- Never miss important updates
 
-### 8. 👨‍👩‍👧‍👦 Family Linking
+### 7. 👨‍👩‍👧‍👦 Family Management
 - Link with family members
-- View family attendance together
+- View combined family attendance
+
+### 8. 💒 Events & Services
+- View upcoming events
+- Service schedules
+- Meeting information
+
+## Technical Details
+- **Framework**: React Native with Expo
+- **Language**: TypeScript
+- **Backend**: Node.js/Express API
+- **Database**: MongoDB
+
+## Developed By
+Vijay - Full Stack Developer
 
 ## Need Help?
-- Contact the church office
-- Ask any volunteer
-- WhatsApp: +91 9440147146
-
-## Getting Started
-1. Download the app
-2. Enter your mobile number
-3. Verify with OTP
-4. Start using!
+- Church Office: +91 9440147146
+- Prayer Line: +91 9505440077
 
 ---
-*God bless you abundantly!*
+*Built with love for the church family!*
