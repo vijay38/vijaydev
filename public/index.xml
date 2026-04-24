@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Home</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ My Digital Garden Welcome to my knowledge base. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 11:20:28 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://quartz.jzhao.xyz/README</link>
+    <guid>https://quartz.jzhao.xyz/README</guid>
+    <description><![CDATA[ Welcome to Quartz This is your digital garden built with Quartz. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 11:10:57 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
