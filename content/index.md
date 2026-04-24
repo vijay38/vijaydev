@@ -2,23 +2,20 @@
 title: Home
 ---
 
-# My Digital Garden
-
-Welcome to my knowledge base.
+# Emmanuel Ministries Hyderabad - Knowledge Base
 
 ## 📁 Memory Structure
 
 ### 🔒 Private Memory
-*Notes for AI/agent context*
+*Technical docs for development*
 
-- [[Private/AI Agent Instructions]]
-- [[Private/Emmanuel Mobile App]]
-- [[Private/Attendance Management]]
+- [[Private/Applications/]] - All app documentation
 
 ### 🔓 Public Memory
-*Published to GitHub Pages*
+*For church members and public*
 
-- [[Public/Emmanuel Mobile App]]
+- [[Public/Applications/Mobile App]]
+- [[Public/]]
 
 ---
 
@@ -29,5 +26,6 @@ Welcome to my knowledge base.
 
 ## Build
 ```bash
+cd C:\repo\quartz
 npx quartz build
 ```
