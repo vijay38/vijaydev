@@ -10,7 +10,7 @@ Projects built by Vijay.
 
 All digital solutions built for Emmanuel Ministries Hyderabad church.
 
-- [Church Digital Services](./Church-Digital-Services.md)
+[Go to Church Digital Services](./Church-Digital-Services/)
 
 ### Included Services:
 - 📱 Mobile App (coming soon)
@@ -28,7 +28,7 @@ All digital solutions built for Emmanuel Ministries Hyderabad church.
 Healthcare branding landing page:
 - Static HTML website
 - Professional business
-[View Project](https://faithflorencebrandanddigitalmarketing.github.io/Faith-Florence/)
+- [View Project](https://faithflorencebrandanddigitalmarketing.github.io/Faith-Florence/)
 - [Faith Florence](./FaithFlorence)
 
 ---

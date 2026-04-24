@@ -6,17 +6,35 @@
       <description>Last 10 notes on Vijay&#039;s Portfolio</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Church Digital Services</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/Church-Digital-Services/</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/Church-Digital-Services/</guid>
+    <description><![CDATA[ Church Digital Services I’m Vijay, a full-stack developer who built these digital solutions for Emmanuel Ministries Hyderabad. 📱 1. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:42:39 GMT</pubDate>
+  </item><item>
+    <title>Applications</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/</guid>
+    <description><![CDATA[ Applications Projects built by Vijay. 🏛 Church Digital Services All digital solutions built for Emmanuel Ministries Hyderabad church. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:38:04 GMT</pubDate>
+  </item><item>
+    <title>Future Ideas</title>
+    <link>https://quartz.jzhao.xyz/Memory/Public/Future-Ideas/</link>
+    <guid>https://quartz.jzhao.xyz/Memory/Public/Future-Ideas/</guid>
+    <description><![CDATA[ Future Ideas Projects and features planned for development. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:38:04 GMT</pubDate>
+  </item><item>
     <title>Meta WhatsApp Business Setup</title>
     <link>https://quartz.jzhao.xyz/Memory/Public/Learnings/WhatsAppSetup</link>
     <guid>https://quartz.jzhao.xyz/Memory/Public/Learnings/WhatsAppSetup</guid>
     <description><![CDATA[ Meta WhatsApp Business API Setup Learn how to set up WhatsApp messaging for church services. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:37:19 GMT</pubDate>
+    <pubDate>Fri, 24 Apr 2026 12:38:04 GMT</pubDate>
   </item><item>
-    <title>Church Digital Services</title>
-    <link>https://quartz.jzhao.xyz/Memory/Public/Church-Digital-Services</link>
-    <guid>https://quartz.jzhao.xyz/Memory/Public/Church-Digital-Services</guid>
-    <description><![CDATA[ Church Digital Services I’m Vijay, a full-stack developer who built these digital solutions for Emmanuel Ministries Hyderabad. 📱 1. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:36:34 GMT</pubDate>
+    <title>Home</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Vijay’s Portfolio I’m Vijay - Full Stack Developer. This is my portfolio showcasing digital projects. ]]></description>
+    <pubDate>Fri, 24 Apr 2026 12:38:04 GMT</pubDate>
   </item><item>
     <title>Emmanuel Ministries Mobile App</title>
     <link>https://quartz.jzhao.xyz/Memory/Public/Applications/EmmanuelMobileApp</link>
@@ -47,24 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/Website</guid>
     <description><![CDATA[ Emmanuel Ministries Website A comprehensive Next.js website developed for Emmanuel Ministries Hyderabad. ]]></description>
     <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
-  </item><item>
-    <title>Meta WhatsApp Service</title>
-    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/WhatsAppService</link>
-    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/WhatsAppService</guid>
-    <description><![CDATA[ Meta WhatsApp Service WhatsApp-powered service for Emmanuel Ministries Hyderabad - members can get information and submit requests via WhatsApp! 📱 WhatsApp Number Message Hi to: +91 9440137776 ✨ What You Can Do 1️⃣ Get Service Timings Send “1” or “timings” Get weekly worship service times 2️⃣ Churc... ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
-  </item><item>
-    <title>Applications</title>
-    <link>https://quartz.jzhao.xyz/Memory/Public/Applications/</link>
-    <guid>https://quartz.jzhao.xyz/Memory/Public/Applications/</guid>
-    <description><![CDATA[ Applications Projects built by Vijay. 🏛 Church Digital Services All digital solutions built for Emmanuel Ministries Hyderabad church. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:25:03 GMT</pubDate>
-  </item><item>
-    <title>Home</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Vijay’s Portfolio I’m Vijay - Full Stack Developer. This is my portfolio showcasing digital projects. ]]></description>
-    <pubDate>Fri, 24 Apr 2026 12:10:29 GMT</pubDate>
   </item>
     </channel>
   </rss>

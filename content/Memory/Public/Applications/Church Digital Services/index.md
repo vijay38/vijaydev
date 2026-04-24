@@ -58,6 +58,8 @@ Parking management with WhatsApp integration:
 
 ## 💬 5. WhatsApp Service
 Message **Hi** to **+91 9440137776**:
+[Message Hi on WhatsApp](https://wa.me/919440137776?text=Hi)
+
 - 🕐 Service timings
 - 📍 Locations  
 - 🚗 Parking requests
@@ -74,12 +76,6 @@ All social links hub:
 - 📘 Facebook
 
 [Social Media Hub](https://emmanuelministrieshyderabad.github.io/SocialMediaAccounts/)
-
----
-
-## 📞 Need Help?
-- 📞 Call: +91 9440147146
-- 🙏 Prayer: +91 9505440077
 
 ---
 *Building digital solutions for the church family!*
