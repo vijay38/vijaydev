@@ -30,7 +30,8 @@ jobs:
         run: npm ci
 
       - name: Build Quartz
-        run: npx quartz build
+        run: |
+          npx quartz@latest build --bundle
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
