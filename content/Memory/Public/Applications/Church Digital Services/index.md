@@ -87,5 +87,14 @@ Face recognition attendance system:
 
 [Learn More](./FaceDetection)
 
+## 🚀 8. Future Plans
+Upcoming features and developments:
+- Online Giving
+- Live Streaming
+- Bible Reading Plan
+- And more!
+
+[Learn More](./Future%20Plans)
+
 ---
 *Building digital solutions for the church family!*
